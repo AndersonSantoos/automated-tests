@@ -1,0 +1,271 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1735589563699' stop='1735589840278'>
+    <name>Testes da Página Inicial - Automation Exercise</name>
+    <title>Testes da Página Inicial - Automation Exercise</title>
+    <test-cases>
+        <test-case start='1735589563699' status='passed' stop='1735589570368'>
+            <name>Deve validar o título da página</name>
+            <title>Deve validar o título da página</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589570393' status='passed' stop='1735589573285'>
+            <name>Deve validar todos os elementos do cabeçalho</name>
+            <title>Deve validar todos os elementos do cabeçalho</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589573321' status='passed' stop='1735589576744'>
+            <name>Deve validar todos os elementos do rodapé</name>
+            <title>Deve validar todos os elementos do rodapé</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589576779' status='passed' stop='1735589579383'>
+            <name>Deve exibir o título "Features" na seção de Features Items</name>
+            <title>Deve exibir o título "Features" na seção de Features Items</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589579413' status='passed' stop='1735589582359'>
+            <name>Deve exibir a seção de itens de features</name>
+            <title>Deve exibir a seção de itens de features</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589582401' status='passed' stop='1735589587108'>
+            <name>Deve exibir a imagem do terceiro produto</name>
+            <title>Deve exibir a imagem do terceiro produto</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589587132' status='passed' stop='1735589590545'>
+            <name>Deve exibir o título do terceiro produto</name>
+            <title>Deve exibir o título do terceiro produto</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589590567' status='passed' stop='1735589594526'>
+            <name>Deve exibir a descrição do terceiro produto</name>
+            <title>Deve exibir a descrição do terceiro produto</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589594549' status='passed' stop='1735589599448'>
+            <name>Deve exibir o botão "Add to cart" do terceiro produto</name>
+            <title>Deve exibir o botão "Add to cart" do terceiro produto</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589599473' status='passed' stop='1735589607682'>
+            <name>Deve exibir o link de adicionar aos favoritos do terceiro produto</name>
+            <title>Deve exibir o link de adicionar aos favoritos do terceiro produto</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589607704' status='passed' stop='1735589634882'>
+            <name>Deve exibir a barra lateral esquerda</name>
+            <title>Deve exibir a barra lateral esquerda</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589634908' status='passed' stop='1735589639416'>
+            <name>Deve exibir o primeiro item da barra lateral</name>
+            <title>Deve exibir o primeiro item da barra lateral</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589639435' status='passed' stop='1735589642324'>
+            <name>Deve exibir o link no primeiro item da barra lateral</name>
+            <title>Deve exibir o link no primeiro item da barra lateral</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589642344' status='passed' stop='1735589645076'>
+            <name>Deve exibir o badge no primeiro link da barra lateral</name>
+            <title>Deve exibir o badge no primeiro link da barra lateral</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589645101' status='passed' stop='1735589647694'>
+            <name>Deve exibir o segundo item da barra lateral</name>
+            <title>Deve exibir o segundo item da barra lateral</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589647711' status='passed' stop='1735589651547'>
+            <name>Deve exibir o ícone do segundo item da barra lateral</name>
+            <title>Deve exibir o ícone do segundo item da barra lateral</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589651566' status='passed' stop='1735589653987'>
+            <name>Deve exibir o ícone do terceiro item da barra lateral</name>
+            <title>Deve exibir o ícone do terceiro item da barra lateral</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589654013' status='passed' stop='1735589656909'>
+            <name>Deve exibir a seção de marcas de produtos</name>
+            <title>Deve exibir a seção de marcas de produtos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589656936' status='passed' stop='1735589659582'>
+            <name>Deve exibir o título da seção de marcas</name>
+            <title>Deve exibir o título da seção de marcas</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589659608' status='passed' stop='1735589662142'>
+            <name>Deve exibir o link de marca 1</name>
+            <title>Deve exibir o link de marca 1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589662162' status='passed' stop='1735589669693'>
+            <name>Deve exibir o link de marca 2</name>
+            <title>Deve exibir o link de marca 2</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589669720' status='passed' stop='1735589680787'>
+            <name>Deve exibir o link de marca 3</name>
+            <title>Deve exibir o link de marca 3</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589680808' status='passed' stop='1735589685156'>
+            <name>Deve exibir o link de marca 4</name>
+            <title>Deve exibir o link de marca 4</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589685172' status='passed' stop='1735589698365'>
+            <name>Deve exibir o link de marca 5</name>
+            <title>Deve exibir o link de marca 5</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589698383' status='passed' stop='1735589711700'>
+            <name>Deve exibir o link de marca 6</name>
+            <title>Deve exibir o link de marca 6</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589711719' status='passed' stop='1735589726584'>
+            <name>Deve exibir o link de marca 7</name>
+            <title>Deve exibir o link de marca 7</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589726607' status='passed' stop='1735589742880'>
+            <name>Deve exibir o link de marca 8</name>
+            <title>Deve exibir o link de marca 8</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589742943' status='passed' stop='1735589759515'>
+            <name>Deve exibir erro para título incorreto</name>
+            <title>Deve exibir erro para título incorreto</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589759537' status='passed' stop='1735589772902'>
+            <name>Deve carregar a página rapidamente</name>
+            <title>Deve carregar a página rapidamente</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589772935' status='passed' stop='1735589815216'>
+            <name>Deve funcionar corretamente em diferentes tamanhos de tela</name>
+            <title>Deve funcionar corretamente em diferentes tamanhos de tela</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589815251' status='passed' stop='1735589825317'>
+            <name>Deve validar a acessibilidade do logo</name>
+            <title>Deve validar a acessibilidade do logo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589825344' status='passed' stop='1735589836472'>
+            <name>Não deve exibir o título incorreto</name>
+            <title>Não deve exibir o título incorreto</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589836491' status='passed' stop='1735589840278'>
+            <name>Deve exibir a seção 'Features' mesmo sem produtos</name>
+            <title>Deve exibir a seção 'Features' mesmo sem produtos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

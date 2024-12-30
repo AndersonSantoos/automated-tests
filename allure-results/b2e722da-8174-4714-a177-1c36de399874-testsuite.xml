@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1735590258540' stop='1735590283566'>
+    <name>Testes na página de cadastro - Automation Exercise</name>
+    <title>Testes na página de cadastro - Automation Exercise</title>
+    <test-cases>
+        <test-case start='1735590258540' status='passed' stop='1735590263876'>
+            <name>Deve validar o título da página</name>
+            <title>Deve validar o título da página</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735590263909' status='passed' stop='1735590265556'>
+            <name>Deve validar todos os elementos do cabeçalho</name>
+            <title>Deve validar todos os elementos do cabeçalho</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735590265574' status='passed' stop='1735590266432'>
+            <name>Deve validar todos os elementos do rodapé</name>
+            <title>Deve validar todos os elementos do rodapé</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735590266452' status='passed' stop='1735590273191'>
+            <name>Deve cadastrar um novo usuário com dados válidos</name>
+            <title>Deve cadastrar um novo usuário com dados válidos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735590273209' status='passed' stop='1735590276514'>
+            <name>Deve mostrar erro ao tentar cadastrar com e-mail já existente</name>
+            <title>Deve mostrar erro ao tentar cadastrar com e-mail já existente</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735590276545' status='passed' stop='1735590278150'>
+            <name>Deve mostrar erro ao tentar cadastrar com um e-mail inválido</name>
+            <title>Deve mostrar erro ao tentar cadastrar com um e-mail inválido</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735590278170' status='passed' stop='1735590279546'>
+            <name>Deve validar o desempenho da página</name>
+            <title>Deve validar o desempenho da página</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735590279594' status='passed' stop='1735590283566'>
+            <name>Deve validar o layout responsivo</name>
+            <title>Deve validar o layout responsivo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

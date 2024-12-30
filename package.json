@@ -1,0 +1,22 @@
+{
+  "name": "cod",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --browser=chrome --headed --spec 'cypress/e2e/**/*.cy.js' --reporter mocha-allure-reporter"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.2",
+    "allure-commandline": "^2.32.0",
+    "cypress": "^13.17.0",
+    "cypress-file-upload": "^5.0.8",
+    "mocha-allure-reporter": "^1.4.0"
+  },
+  "dependencies": {
+    "cod": "file:"
+  }
+}

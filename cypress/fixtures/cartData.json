@@ -1,0 +1,13 @@
+{
+  "productName": "Blue Top",
+  "productPrice": "Rs. 500",
+  "cardDetails": {
+    "name": "Anderson Teste",
+    "number": "1234123412341234",
+    "cvc": "123",
+    "expiration": {
+      "month": "12",
+      "year": "2025"
+    }
+  }
+}

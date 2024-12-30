@@ -1,0 +1,22 @@
+{
+  "validUser": {
+    "firstName": "Anderson",
+    "lastName": "Santos",
+    "company": "Softex",
+    "email": "anderson@teste.com",
+    "password": "123",
+    "address": "Cidade nova - 123",
+    "address2": "Cidade nova - 1234",
+    "city": "Recife",
+    "state": "Pe",
+    "zip": "12345678",
+    "phone": "1234567890",
+    "successMessage": "ACCOUNT CREATED!"
+  },
+  "invalidUser": {
+    "firstName": "Anderson",
+    "lastName": "Santos",
+    "email": "invalid-email.com"
+  },
+  "existingEmail": "anderson@testee.com"
+}

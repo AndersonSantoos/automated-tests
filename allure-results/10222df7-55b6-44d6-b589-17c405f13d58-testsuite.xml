@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1735590220335' stop='1735590227128'>
+    <name>Testes da Página Inicial - Automation Exercise Testes da Página de Produtos - Automation Exercise</name>
+    <title>Testes da Página Inicial - Automation Exercise Testes da Página de Produtos - Automation Exercise</title>
+    <test-cases>
+        <test-case start='1735590220349' status='passed' stop='1735590227126'>
+            <name>Deve permitir buscar o produto "Men Tshirt" usando a barra de pesquisa</name>
+            <title>Deve permitir buscar o produto "Men Tshirt" usando a barra de pesquisa</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

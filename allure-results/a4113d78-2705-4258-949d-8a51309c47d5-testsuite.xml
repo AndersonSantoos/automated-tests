@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1735589894832' stop='1735590044228'>
+    <name>Testes na página de logout - Automation Exercise</name>
+    <title>Testes na página de logout - Automation Exercise</title>
+    <test-cases>
+        <test-case start='1735589894832' status='passed' stop='1735589911163'>
+            <name>Deve validar todos os elementos do cabeçalho</name>
+            <title>Deve validar todos os elementos do cabeçalho</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589911195' status='passed' stop='1735589923194'>
+            <name>Deve validar todos os elementos do rodapé</name>
+            <title>Deve validar todos os elementos do rodapé</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589923229' status='passed' stop='1735589949296'>
+            <name>Deve realizar login na aplicação</name>
+            <title>Deve realizar login na aplicação</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589949313' status='passed' stop='1735589981122'>
+            <name>Deve confirmar se está logado</name>
+            <title>Deve confirmar se está logado</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589981147' status='passed' stop='1735590000624'>
+            <name>Deve realizar logout</name>
+            <title>Deve realizar logout</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735590000648' status='passed' stop='1735590013514'>
+            <name>Deve validar o tempo de carregamento da página</name>
+            <title>Deve validar o tempo de carregamento da página</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735590013540' status='passed' stop='1735590044228'>
+            <name>Deve validar a responsividade da página em diferentes tamanhos de tela</name>
+            <title>Deve validar a responsividade da página em diferentes tamanhos de tela</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

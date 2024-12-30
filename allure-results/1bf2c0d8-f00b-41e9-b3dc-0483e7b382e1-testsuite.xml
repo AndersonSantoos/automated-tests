@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1735589450189' stop='1735589533805'>
+    <name>Testes do Rodapé</name>
+    <title>Testes do Rodapé</title>
+    <test-cases>
+        <test-case start='1735589450189' status='passed' stop='1735589474355'>
+            <name>Deve validar a visibilidade de todos os elementos do rodapé</name>
+            <title>Deve validar a visibilidade de todos os elementos do rodapé</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589474386' status='passed' stop='1735589499704'>
+            <name>Deve validar os links de inscrição do rodapé</name>
+            <title>Deve validar os links de inscrição do rodapé</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589499730' status='passed' stop='1735589512978'>
+            <name>Deve validar que o rodapé está presente na página</name>
+            <title>Deve validar que o rodapé está presente na página</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589513000' status='passed' stop='1735589533805'>
+            <name>Deve validar o container do rodapé</name>
+            <title>Deve validar o container do rodapé</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

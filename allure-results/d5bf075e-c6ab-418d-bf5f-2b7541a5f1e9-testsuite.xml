@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1735589383665' stop='1735589417689'>
+    <name>Testes na página de carrinho - Automation Exercise</name>
+    <title>Testes na página de carrinho - Automation Exercise</title>
+    <test-cases>
+        <test-case start='1735589383665' status='passed' stop='1735589389465'>
+            <name>Deve validar o título da página</name>
+            <title>Deve validar o título da página</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589389491' status='passed' stop='1735589391157'>
+            <name>Deve validar todos os elementos do cabeçalho</name>
+            <title>Deve validar todos os elementos do cabeçalho</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589391201' status='passed' stop='1735589392320'>
+            <name>Deve validar todos os elementos do rodapé</name>
+            <title>Deve validar todos os elementos do rodapé</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589392342' status='passed' stop='1735589412598'>
+            <name>Deve realizar login, adicionar produto ao carrinho, validar tabela e concluir compra</name>
+            <title>Deve realizar login, adicionar produto ao carrinho, validar tabela e concluir compra</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589412641' status='passed' stop='1735589415862'>
+            <name>Deve validar o layout responsivo em diferentes tamanhos de tela</name>
+            <title>Deve validar o layout responsivo em diferentes tamanhos de tela</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589415893' status='passed' stop='1735589417689'>
+            <name>Deve validar o tempo de carregamento da página de carrinho</name>
+            <title>Deve validar o tempo de carregamento da página de carrinho</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

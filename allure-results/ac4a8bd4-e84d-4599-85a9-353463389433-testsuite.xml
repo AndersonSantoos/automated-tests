@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1735590230406' stop='1735590255233'>
+    <name>Testes de exclusão de conta - Automation Exercise</name>
+    <title>Testes de exclusão de conta - Automation Exercise</title>
+    <test-cases>
+        <test-case start='1735590230406' status='passed' stop='1735590243072'>
+            <name>Deve realizar login e validar que está logado</name>
+            <title>Deve realizar login e validar que está logado</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735590243093' status='passed' stop='1735590255233'>
+            <name>Deve deletar a conta e validar a exclusão</name>
+            <title>Deve deletar a conta e validar a exclusão</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

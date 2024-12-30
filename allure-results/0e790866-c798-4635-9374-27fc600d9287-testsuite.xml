@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1735589420013' stop='1735589448229'>
+    <name>Testes da Página de Contato - Automation Exercise</name>
+    <title>Testes da Página de Contato - Automation Exercise</title>
+    <test-cases>
+        <test-case start='1735589420013' status='passed' stop='1735589424129'>
+            <name>Deve validar o título da página</name>
+            <title>Deve validar o título da página</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589424152' status='passed' stop='1735589425607'>
+            <name>Deve validar todos os elementos do cabeçalho</name>
+            <title>Deve validar todos os elementos do cabeçalho</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589425638' status='passed' stop='1735589426719'>
+            <name>Deve validar todos os elementos do rodapé</name>
+            <title>Deve validar todos os elementos do rodapé</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589426740' status='passed' stop='1735589427938'>
+            <name>Deve validar o título do formulário</name>
+            <title>Deve validar o título do formulário</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589427956' status='passed' stop='1735589429177'>
+            <name>Deve verificar visibilidade do formulário de contato</name>
+            <title>Deve verificar visibilidade do formulário de contato</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589429191' status='passed' stop='1735589431588'>
+            <name>Deve validar a visibilidade e habilitação dos campos do formulário</name>
+            <title>Deve validar a visibilidade e habilitação dos campos do formulário</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589431614' status='passed' stop='1735589432764'>
+            <name>Deve fazer o upload de um arquivo</name>
+            <title>Deve fazer o upload de um arquivo</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589432788' status='passed' stop='1735589435403'>
+            <name>Deve medir o tempo de carregamento da página</name>
+            <title>Deve medir o tempo de carregamento da página</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589435431' status='passed' stop='1735589444671'>
+            <name>Deve validar a responsividade da página em diferentes tamanhos de tela</name>
+            <title>Deve validar a responsividade da página em diferentes tamanhos de tela</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1735589444822' status='passed' stop='1735589448229'>
+            <name>Deve garantir que o contraste do texto no cabeçalho seja adequado</name>
+            <title>Deve garantir que o contraste do texto no cabeçalho seja adequado</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
