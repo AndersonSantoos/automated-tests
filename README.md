@@ -24,7 +24,8 @@ A estrutura dos testes segue o padrão **Page Object Model (POM)**, que facilita
 - **JavaScript**: Linguagem utilizada para escrever os testes e interagir com o DOM.
 - **Fixtures**: Utilização de dados dinâmicos durante os testes, como credenciais de login e informações de pagamento.
 - **Page Object Model (POM)**: Estrutura modular e reutilizável para o código de testes.
-
+- **Allure**: Tecnologia para gerar relatórios detalhados dos testes realizados, facilitando a visualização de resultados e métricas de performance.
+  
 ## Resultados Esperados
 O projeto visa proporcionar um processo de testes mais ágil e eficaz, garantindo que as funcionalidades críticas do site funcionem corretamente em diferentes cenários. Além disso, busca-se melhorar continuamente a qualidade do site, proporcionando uma experiência de usuário fluida e sem erros.
 
@@ -33,3 +34,4 @@ O projeto visa proporcionar um processo de testes mais ágil e eficaz, garantind
 - **Aumentar a cobertura de testes**: Incluir mais casos negativos e testes de segurança.
 - **Testes de Acessibilidade e de Carga**: Implementar testes para garantir que a plataforma seja robusta em diferentes condições de uso.
 - **Aprimorar os testes de performance**: Melhorar a análise de tempo de resposta para volumes maiores de dados.
+- **Integração com Allure**: Continuar a implementação de relatórios detalhados utilizando Allure, proporcionando uma visualização mais clara dos resultados e ajudando na análise de métricas de qualidade.
