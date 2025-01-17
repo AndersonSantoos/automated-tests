@@ -1,0 +1,25 @@
+name: Testes Github com Cypress Cloud
+
+on: 
+  push:
+
+jobs:
+  cypress-run-chrome:
+    runs-on: ubuntu-latest
+
+    strategy:
+      fail-fast: false
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3.5.3
+
+      - name: Cypress.io rodando testes no Chrome
+        uses: cypress-io/github-action@v5.8.2
+        with:
+          record: true
+          parallel: true
+          command: npx cypress run --record --browser chrome
+        env:
+          CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
